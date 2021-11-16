@@ -1,0 +1,11 @@
+---
+content_type: resource
+description: This file contains the questions to test students understanding on the
+  course material.
+file: null
+file_location: /coursemedia/21m-302-harmony-and-counterpoint-ii-spring-2005/765d540bcc109ccf3b61862be927d994_quiz5_viio7.pdf
+file_type: application/pdf
+resourcetype: Document
+title: quiz5_viio7.pdf
+uid: 765d540b-cc10-9ccf-3b61-862be927d994
+---
